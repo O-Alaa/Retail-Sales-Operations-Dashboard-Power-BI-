@@ -26,7 +26,7 @@ This project demonstrates skills in:
 
 ## 1️⃣ Sales Performance Overview
 
-![Dashboard Page 1](/images/proj3_page1.png)
+![Dashboard Page 1](/images/dashboard_page1.png)
 
 ### Key Metrics:
 - Total Sales
@@ -44,7 +44,7 @@ This project demonstrates skills in:
 
 ## 2️⃣ Customer Insights
 
-![Dashboard Page 2](/images/proj3_page3.png)
+![Dashboard Page 2](/images/dashboard_page3.png)
 
 ### Focus:
 - Sales Trend by Segment Over Time
@@ -59,7 +59,7 @@ Identifies high-value customers and profitable segments.
 
 ## 3️⃣ Product Category Analysis
 
-![Dashboard Page 3](/images/proj3_page2.png)
+![Dashboard Page 3](/images/dashboard_page2.png)
 
 ### Focus:
 - Sales by Category
@@ -74,7 +74,7 @@ Helps identify best-performing product lines and optimization opportunities.
 
 ## 4️⃣ Shipping & Operations
 
-![Dashboard Page 3](/images/proj3_page4.png)
+![Dashboard Page 3](/images/dashboard_page4.png)
 
 ### Metrics:
 - Average Shipping Days
